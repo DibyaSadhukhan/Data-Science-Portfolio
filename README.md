@@ -13,5 +13,8 @@ Repository containing portfolio of Personal projects in Web Scraping, Data Analy
 	Designed a website to accept a query from the user and give them an anime recommendation from over 12000 anime. 
 	The recommender uses a Machine Learning algorithm  to give the user a list of recommended anime based on the ones that they have seen.
 	Technologies:	HTML CSS,Machine Learning,Javascript, Python, Flask.
-      
+<ul>
+<li>Line 1</li>
+<li>Line 2</li>
+</ul>
   
