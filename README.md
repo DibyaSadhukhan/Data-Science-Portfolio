@@ -17,3 +17,11 @@ Repository containing portfolio of Personal projects in Web Scraping, Data Analy
 
 </ul>
   
+## Research Experience
+1. Time series analysis of rice production for SAARC countries: 
+Built and trained the traditional machine learning models (Linear Regression, Parabolic Regression and Exponential Regression). 
+Analyzed the past data to get the optimal Arima model to get the most accurate result for the data. Built the RNN model with keras and optimized and trained it to get the best result for our dataset.
+
+2. Segmentation of different types of diseases in tomato plants :
+Wrote the bridge that localized the segmentation of  the disease from the bounding box received after training and classifying using YOLO v5 algorithm.
+wrote an algorithm(Region Growing Algorithm) that extracts the exact pixels of the leaf containing the disease and compares the region growing algorithm with the open cv version of grabcut algorithm.
